@@ -20,3 +20,6 @@ Our storytelling system employs a GPT-2 instance to generate the initial portion
 Graphical representation of sentiment  score value progression
 
 ## Running the code
+Clone the repo using "git clone https://github.com/aditya-parab/Adventures-of-AI-game.git"
+Run the "ecs-289g.ipynb" python notebook. Remember to add/change the initial prompt in **cell number 4** before running the code.
+Going throught the code, you will be able to edit and use multiple different GPT-2 models. The code is self-explanatory.
