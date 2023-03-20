@@ -15,3 +15,8 @@ Our storytelling system employs a GPT-2 instance to generate the initial portion
 * BLEU : to assign a score evaluating the quality of text
 
 ## Results
+![Results graph](https://user-images.githubusercontent.com/67012098/226225352-ef92d681-682a-419a-909a-b221cbe6cf07.png)
+
+Graphical representation of sentiment  score value progression
+
+## Running the code
