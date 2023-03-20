@@ -1,6 +1,8 @@
 # Adventures of AI - A GPT Powered Storytelling Experience
 ECS 289G Project
 
+University of California Davis
+
 ## Introduction
 Our storytelling system employs a GPT-2 instance to generate the initial portion of an adventure story based on a dataset-provided prompt. To ensure narrative coherence and dramatic progression, the generated story segment is assigned a drama score derived from the sentiment analysis of the current scene. The drama score then informs the generation of suitable input options that affect plot intensity and narrative drive. Subsequently, a human player selects one of these input options, and the chosen input, along with the story history, is fed back into the GPT-2 instance to further develop the narrative. Through iterative cycles of AI-generated content and human input, our system facilitates the co-creation of engaging, customized stories that cater to individual preferences while maintaining a consistent narrative structure.
 
@@ -20,6 +22,8 @@ Our storytelling system employs a GPT-2 instance to generate the initial portion
 Graphical representation of sentiment  score value progression
 
 ## Running the code
-Clone the repo using "git clone https://github.com/aditya-parab/Adventures-of-AI-game.git"
+Clone the repo using "git clone https://github.com/aditya-parab/Adventures-of-AI-game.git".
+
 Run the "ecs-289g.ipynb" python notebook. Remember to add/change the initial prompt in **cell number 4** before running the code.
+
 Going throught the code, you will be able to edit and use multiple different GPT-2 models. The code is self-explanatory.
