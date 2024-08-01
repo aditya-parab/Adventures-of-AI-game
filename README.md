@@ -1,4 +1,4 @@
-# Adventures of AI - A GPT Powered Storytelling Experience
+# Adventures of AI - A GPT2 Powered Storytelling Experience
 ECS 289G Project
 
 University of California Davis
